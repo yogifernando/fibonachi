@@ -1,2 +1,2 @@
 # fibonachi
-function dengan php
+function fibonachi dengan php
